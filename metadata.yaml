@@ -1,0 +1,29 @@
+_repo: Home-Range-and-Movements-of-the-Eastern-Cottontail-in-Kansas_29688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janes, Donald W.
+    alias: Janes, Donald Wallace
+    gutenberg_agent_id: '34087'
+    url: http://www.gutenberg.org/2009/agents/34087
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2009-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29688'
+  lccn: '59063259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Cottontails'
+title: Home Range and Movements of the Eastern Cottontail in Kansas
+url: http://www.gutenberg.org/ebooks/29688
