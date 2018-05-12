@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34087'
     url: http://www.gutenberg.org/2009/agents/34087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29688#Home-Range-and-Movements-of-the-Eastern-Cottontail-in-Kansas
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
